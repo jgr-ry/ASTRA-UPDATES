@@ -1,0 +1,15 @@
+{
+    "version":  "0.3.0-beta.1",
+    "notes":  "Novedades de ASTRA 0.3.0-beta.1\n\n- Primera beta de ASTRA, de JoseGR.\n- Instalador en español e inglés: pone primero lo que ASTRA necesita (WebView2) y después ASTRA, sin pedir administrador.\n- Configuración inicial: idioma, gota o notch, funciones, iniciar con Windows y tema, y tu IA.\n- Antes de empezar, un aviso claro de qué hace ASTRA con tus datos; sin aceptarlo no arranca nada.\n- Privacidad y seguridad al detalle en Ajustes: qué se queda en tu PC, qué sale, a dónde y cuándo.\n- Actualizaciones firmadas desde github.com/jgr-ry/ASTRA-UPDATES: al arrancar y cada 6 horas.\n- Acerca de: autor, versión, licencia de uso y componentes de código abierto.\n- Muchos arreglos: Ajustes que podía bloquearse, Windows 10 sin Mica, OneDrive, pantallas pequeñas…",
+    "pub_date":  "2026-10-09T22:05:11Z",
+    "platforms":  {
+                      "windows-x86_64-nsis":  {
+                                                  "url":  "https://raw.githubusercontent.com/jgr-ry/ASTRA-UPDATES/main/releases/0.3.0-beta.1/ASTRA_0.3.0-beta.1_x64-setup.exe",
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdG1HWmo4cjJIMjllNTd1dDNNaG5UbVg5TXFUWDJuUkp4RVR0czdiQ0ZmUlBPZ1pvK3ByQXJsWVBqd1ZrUTBzT29iU2V6Y0ptTjBrTlpJQUllVjNqT3c1UlA3SDk0VHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTgzNTEwCWZpbGU6QVNUUkFfMC4zLjAtYmV0YS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMC1iZXRhLjEKQzVkM0J2SFA3bVl2TlZkYldRMU9ubTA5ZWZrc1FWdzBTa08xRDNjV3F2ajVMUHluMWx1TmNxdXZqdHBTK09DNnVTbEZDNmNuR0xIUXhDVW9VZVkvQnc9PQo="
+                                              },
+                      "windows-x86_64":  {
+                                             "url":  "https://raw.githubusercontent.com/jgr-ry/ASTRA-UPDATES/main/releases/0.3.0-beta.1/ASTRA_0.3.0-beta.1_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdG1HWmo4cjJIMjllNTd1dDNNaG5UbVg5TXFUWDJuUkp4RVR0czdiQ0ZmUlBPZ1pvK3ByQXJsWVBqd1ZrUTBzT29iU2V6Y0ptTjBrTlpJQUllVjNqT3c1UlA3SDk0VHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTgzNTEwCWZpbGU6QVNUUkFfMC4zLjAtYmV0YS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMC1iZXRhLjEKQzVkM0J2SFA3bVl2TlZkYldRMU9ubTA5ZWZrc1FWdzBTa08xRDNjV3F2ajVMUHluMWx1TmNxdXZqdHBTK09DNnVTbEZDNmNuR0xIUXhDVW9VZVkvQnc9PQo="
+                                         }
+                  }
+}

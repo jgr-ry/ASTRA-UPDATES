@@ -1,21 +1,85 @@
-MIT License
+ASTRA — Licencia de uso / End-user licence
+© 2026 JoseGR. Todos los derechos reservados. All rights reserved.
 
-Copyright (c) 2026 JoseGR
+========================================================================
+ESPAÑOL
+========================================================================
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Quién la hizo. ASTRA es una obra de JoseGR (https://github.com/jgr-ry).
+   El programa, su diseño, su nombre y su logotipo son de JoseGR.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Qué puedes hacer. Instalar y usar ASTRA, gratis, en tus propios equipos
+   y para uso personal.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Qué no puedes hacer sin permiso por escrito de JoseGR:
+   - copiar o repartir ASTRA o su instalador (si alguien lo quiere, pásale
+     el enlace oficial: https://github.com/jgr-ry/ASTRA-UPDATES);
+   - venderla, alquilarla, prestarla a cambio de dinero o sublicenciarla;
+   - modificarla, descompilarla o desensamblarla, salvo lo que la ley te
+     permita aunque esta licencia lo prohíba;
+   - quitar o cambiar sus avisos de autoría o de licencia.
+
+4. Es una beta. ASTRA está en pruebas y puede fallar. Se entrega "tal
+   cual", sin garantías de ningún tipo. En la medida en que la ley lo
+   permita, JoseGR no responde de daños ni de pérdidas de datos que
+   vengan de usarla.
+
+5. Tus datos. ASTRA no tiene servidor ni cuentas y no recoge datos para
+   JoseGR. Lo que guarda se queda en tu equipo. Lo que envía a otros
+   servicios (la IA que elijas, tus integraciones, el tiempo, tus
+   calendarios, las actualizaciones) solo sale cuando usas esas
+   funciones, con tus claves y según las condiciones de esos servicios.
+   Todo, al detalle, en Ajustes › Privacidad y seguridad.
+
+6. Componentes de terceros. ASTRA incluye componentes de código abierto
+   que conservan sus propias licencias (Ajustes › Acerca de › Componentes
+   de código abierto). Esta licencia no recorta los derechos que esas
+   licencias te dan sobre esos componentes.
+
+7. Actualizaciones. ASTRA puede buscar versiones nuevas (se apaga en
+   Ajustes › Actualizaciones). Cada versión se rige por esta licencia o
+   por la que la acompañe.
+
+8. Fin. Si incumples esta licencia, deja de valer y debes desinstalar
+   ASTRA.
+
+========================================================================
+ENGLISH
+========================================================================
+
+1. Who made it. ASTRA is a work of JoseGR (https://github.com/jgr-ry).
+   The program, its design, its name and its logo belong to JoseGR.
+
+2. What you may do. Install and use ASTRA, free of charge, on your own
+   computers for personal use.
+
+3. What you may not do without JoseGR's written permission:
+   - copy or hand out ASTRA or its installer (if someone wants it, give
+     them the official link: https://github.com/jgr-ry/ASTRA-UPDATES);
+   - sell, rent, lend for money or sublicense it;
+   - modify, decompile or disassemble it, except where the law allows it
+     even though this licence forbids it;
+   - remove or change its authorship or licence notices.
+
+4. It is a beta. ASTRA is being tested and may fail. It is provided
+   "as is", without warranty of any kind. To the extent the law allows,
+   JoseGR is not liable for any damage or data loss arising from its use.
+
+5. Your data. ASTRA has no server and no accounts and collects no data
+   for JoseGR. What it keeps stays on your computer. What it sends to
+   other services (the AI you choose, your integrations, the weather,
+   your calendars, updates) only leaves when you use those features, with
+   your keys and under those services' terms. All the details are in
+   Settings › Privacy & security.
+
+6. Third-party components. ASTRA includes open-source components that
+   keep their own licences (Settings › About › Open-source components).
+   This licence does not limit the rights those licences give you over
+   those components.
+
+7. Updates. ASTRA can look for new versions (switch it off in
+   Settings › Updates). Each version is covered by this licence or by
+   the one that comes with it.
+
+8. Termination. If you break this licence it ends, and you must uninstall
+   ASTRA.
